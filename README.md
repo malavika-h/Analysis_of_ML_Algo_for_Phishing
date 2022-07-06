@@ -1,4 +1,5 @@
-# Analysis_of_ML_Algo_for_Phishing
+# Analysis_of_ML_Algo_for_Phishing_Detection
+
 This paper focusses on discussion and comparison of different machine learning algorithms that are capable of detecting phishing emails and websites. The experiments have shown that that MultinomialNB attains the highest efficiency of 98.06% for phishing email detection and Decision Tree Classifier offers the maximum efficiency of 95.41% for phishing website detection.
 
 This project contains 2 Python notebooks:
